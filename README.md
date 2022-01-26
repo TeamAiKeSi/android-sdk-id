@@ -22,7 +22,7 @@ allprojects {
         google()
         jcenter()
         maven { 
-               url 'https://proxyco.jfrog.io/proxyco/android-apps'
+               url 'https://teamaikesi.jfrog.io/artifactory/android-apps'
                credentials {
                       username = 'USERNAME'
                       password = 'PASSWORD'
