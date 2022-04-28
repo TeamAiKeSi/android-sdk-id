@@ -6,8 +6,8 @@ This repository contains an application that illustrates the basic usage of the 
 -   Android SDK Build-tools 30.0.2
 -   Android SDK Command-line Tools 2.1
 -   Android SDK Platform-tools 30.0.4
--   Gradle 6.3
--   Gradle Plugin for Android 4.0.1
+-   Gradle 6.3 and above
+-   Gradle Plugin for Android 4.0.1 and above
 
 ## Quick Start
 An example project is included with Proxy Mobile SDK for Android. This example demonstrates how to authenticate a user to the Proxy service and enable the Proxy signal within your app.
